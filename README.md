@@ -33,3 +33,5 @@ The app also includes additional small applications such as a virtual keyboard a
 ![Image](https://github.com/user-attachments/assets/f2ef52ac-8ca3-4a4e-a3c0-7e19eb7f3b90)
 
 ### Step 3;
+
+![Image](https://github.com/user-attachments/assets/58be1d3a-210d-4798-acd7-4390c0394ce9)
