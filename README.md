@@ -1,6 +1,7 @@
 # ANTI HAND Digital Mouse
 
-This application was developed during my internship at Emeltek software company, application includes two different versions; 
+This application was developed during my internship at Emeltek software company, application includes two different versions;
+
 First version is intended for use by individuals who are completely paralyzed and can only move their eyes. 
 The second version is intended for use of the mouse only by disabled individuals who cannot use their hands.  
 The app also includes additional small applications such as a virtual keyboard and voice command.
