@@ -1,4 +1,4 @@
-# ANTI HAND Digital Mouse
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/bec7471a-d8bb-446a-b893-658f6c2243f2" /> # ANTI HAND Digital Mouse
 This application was developed during my internship at Emeltek software company, application includes two different versions; 
 First version is intended for use by individuals who are completely paralyzed and can only move their eyes. 
 The second version is intended for use of the mouse only by disabled individuals who cannot use their hands.  
