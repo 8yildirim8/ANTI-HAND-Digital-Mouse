@@ -1,4 +1,4 @@
-# ANTI HAND Digital Mouse <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/bec7471a-d8bb-446a-b893-658f6c2243f2" />
+# ANTI HAND Digital Mouse    <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/bec7471a-d8bb-446a-b893-658f6c2243f2" />
 
 This application was developed during my internship at Emeltek software company, application includes two different versions;
 
