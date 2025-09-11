@@ -11,7 +11,7 @@ The app also includes additional small applications such as a virtual keyboard a
 
 The development steps of two different versions of the application are given below.
 
-## First Version;
+## 1️⃣ First Version;
 
 ### 🔹 Step 1; 
 To ensure that the mouse moves in the direction the eye is looking.
@@ -33,7 +33,7 @@ In applications that require searching, such as Google, YouTube, etc., after cli
 
 ![Image](https://github.com/user-attachments/assets/be9898cb-6c61-490a-8f44-89069f48b16d)
 
-## Second Version;
+## 2️⃣ Second Version;
 
 ### 🔹 Step 1; 
 Unlike version 1, in version 2, the mouse would track the user's face (the tip of the nose) rather than the user's eyes. This meant that the mouse would move in the direction the user turned their head on the screen.
