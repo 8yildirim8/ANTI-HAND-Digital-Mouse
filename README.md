@@ -1,4 +1,4 @@
-# ANTI HAND Digital Mouse "✋❌" <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/bec7471a-d8bb-446a-b893-658f6c2243f2" />
+# ANTI HAND Digital Mouse "✋❌" <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/bec7471a-d8bb-446a-b893-658f6c2243f2" />
 
 ## 📝 Project Summary
 
