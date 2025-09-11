@@ -4,9 +4,9 @@ First version is intended for use by individuals who are completely paralyzed an
 The second version is intended for use of the mouse only by disabled individuals who cannot use their hands.  
 The app also includes additional small applications such as a virtual keyboard and voice command.
 
-First Version;
+##First Version;
 
-Step 1;
+###Step 1;
 
 ![Image](https://github.com/user-attachments/assets/974fae31-6a5e-4e90-aea2-588d46323f27)
 
