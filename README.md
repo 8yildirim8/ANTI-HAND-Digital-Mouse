@@ -3,3 +3,7 @@ This application includes two different versions;
 Version 1 is intended for use by individuals who are completely paralyzed and can only move their eyes. 
 The second version is intended for use of the mouse only by disabled individuals who cannot use their hands.  
 The app also includes additional small applications such as a virtual keyboard and voice command.
+
+1. Version;
+1. Day;
+![Image](https://github.com/user-attachments/assets/62a0c60f-8116-4306-92dc-5d6975682711)
